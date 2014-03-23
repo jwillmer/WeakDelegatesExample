@@ -1,4 +1,4 @@
-WeakDelegatesExample
+Weak Delegates Example
 ====================
 
 This project demonstrates the problem with strong CLR references and is an extended version of an example by [Greg Schechter]
